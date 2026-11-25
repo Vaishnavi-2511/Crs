@@ -31,7 +31,7 @@ export default function Login() {
       >
 
         <span className="eyebrow">
-          WELCOME BACK
+          WELCOME 
         </span>
 
         <h1>Log in.</h1>
